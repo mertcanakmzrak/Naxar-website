@@ -70,9 +70,8 @@ header::after {
 }
 
 #i-buy {
-    position: relative;
-    top: 3px;
-    right: 4px;
+ 
+margin-right:10px ;
     width: 20px;
 }
 
