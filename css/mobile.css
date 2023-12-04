@@ -1,0 +1,95 @@
+.custom-box {
+    margin-left: 20px;
+    width: 200px;
+}
+
+
+.col {
+    display: block;
+}
+
+
+
+.box {
+    justify-content: center;
+    align-items: center;
+    background-image: none;
+}
+
+.box-text {
+    width: auto;
+    display: flex;
+    text-align: center;
+    position: static;
+    margin: 50px;
+    padding: 40px;
+}
+
+
+
+
+
+.text-box {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 30px;
+
+}
+
+.text-row {
+    margin-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+.custom-px-lg-5 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.custom-px-lg-6 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.custom-px-lg-7 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.line {
+    display: none;
+}
+
+.circle {
+    display: none;
+}
+
+.additional-circle {
+    display: none;
+}
+
+.personal {
+    overflow: hidden;
+}
+.number {
+padding-right: 10px;
+
+ }
+ .o::after {
+    
+   display: none;
+  
+  } .i::after {
+  
+   display: none;
+  
+  }
+  .right{
+    display: none;
+  }
