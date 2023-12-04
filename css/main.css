@@ -19,16 +19,6 @@ section {
 }
 
 
-#connectwallet {
-
-
-    font-family: "Acumin Variable Concept";
-    width: 200px;
-    border: 3px #76B900 solid;
-    border-radius: 50px;
-
-    color: #76B900;
-}
 
 
 header::after {
@@ -712,7 +702,7 @@ header::after {
 
 .text-box div .text {
     width: 75%;
-    font-size: 1vw;
+    font-size: 12px;
 
 }
 
@@ -824,29 +814,23 @@ footer:after {
 }
 
 .by-btn {
-
+color: black;
     width: 200px;
     height: 50px;
     border: none;
-    padding-bottom: 3px;
     text-decoration: none;
     font-size: 16px;
     font-weight: 700;
     border-radius: 50px;
     background-color: #76B900;
-    border: 0px;
     display: flex;
     justify-content: center;
     align-items: center;
-    transition-duration: 0.4s;
+    transition-duration: 0.8s;
 
 }
 
-.by-btn img {
-    margin-right: 2px;
-    margin-bottom: 3px;
 
-}
 
 .title {
     font-size: 40px;
@@ -863,10 +847,10 @@ footer:after {
 .connect-btn {
     width: 200px;
     height: 50px;
-    border: 5px solid #76B900;
+    border: 3px solid #76B900;
     border-radius: 50px;
     background-color: transparent;
-    color: #76B900;
+    color: #76B900; 
     font-size: 16px;
     font-weight: 700;
     padding-bottom: 3px;
@@ -894,6 +878,7 @@ footer:after {
 
 .text {
     font-size: 10px;
+
 }
 .personal {
     overflow: hidden;
